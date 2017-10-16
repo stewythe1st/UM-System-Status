@@ -21,6 +21,9 @@ Set up a content element. Include MDL elements as needed. Here, I've used some c
 </div>
 ```
 
+## Example
+See the the [live example](https://raw.githubusercontent.com/stewythe1st/UM-System-Status/master/example.html)
+
 ## Author
 
 * **Stuart Miller** - <sm67c@mst.edu> - [Website](http://web.mst.edu/~sm67c/)
